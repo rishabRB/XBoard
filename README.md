@@ -9,7 +9,7 @@
 
 ![](https://github.com/Krishna11118/XBoard/blob/main/examples/XBoardGif.gif)
 
-👉 Live Demo: <a href='https://krishna-xboard.netlify.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://x-board-one.vercel.app/'>Live Demo</a>
 
 List of Languages that were used to built this project .
 
@@ -27,7 +27,7 @@ List of Languages that were used to built this project .
 
 <h2>Contact</h2>
 
-Krishna - [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
